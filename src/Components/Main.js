@@ -4,7 +4,7 @@ const Main = () => {
 
     function handleSearch(e) {
         e.preventDefault()
-        alert('Searching...');
+        console.log('Searching...');
     }
 
 
